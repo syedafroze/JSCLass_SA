@@ -22,3 +22,13 @@ console.log(str.toUpperCase());
 console.log(str.startsWith("y"));
 //w3schools
 
+
+//Template Literal 
+
+let name1="Afzal",name2="Shyam";
+
+//Afzal and Shyam are good developers
+
+console.log(`${name1} and ${name2} are good developers`)
+
+

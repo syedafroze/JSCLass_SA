@@ -78,7 +78,7 @@ arr5.forEach((val, index, arr) => {
   }
 });
 
-console.log(result2);
+
 
 //[5,6,7,8,9]
 
